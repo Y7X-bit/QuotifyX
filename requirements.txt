@@ -1,0 +1,5 @@
+customtkinter
+requests
+pyttsx3
+pillow
+pyperclip
