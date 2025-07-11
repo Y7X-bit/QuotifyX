@@ -1,14 +1,14 @@
-<p align="center">
-  <img src="assets/1.png" width="100%" alt="QuotifyX Preview" />
-</p>
-
 <h1 align="center">💬 QuotifyX</h1>
 <p align="center">
   ⚡ A glowing AMOLED quote generator with speech, copy, save & export —<br>
   Designed with 💗 by <a href="https://github.com/Y7X-bit">Y7X</a>
 </p>
 
----
+<p align="center">
+  <img src="assets/1.png" width="100%" alt="QuotifyX Preview" />
+</p> 
+
+ ---
 
 ## ✨ Features
 
