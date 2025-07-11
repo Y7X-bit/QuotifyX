@@ -5,8 +5,10 @@
 </p>
 <p align="center">
   <img src="assets/1.png" width="100%" alt="QuotifyX Preview" />
-</p> 
-  ---
+</p>
+
+
+---
 
 ## ✨ Features
 
