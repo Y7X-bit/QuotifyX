@@ -15,13 +15,13 @@ Branded with 💗 by [Y7X-bit](https://github.com/Y7X-bit)
 ## 🌟 Features at a Glance
 
 🎯 **Get Quotes** from multiple categories (Motivation, Funny, Productivity, API)  
-🔊 **Text-to-Speech** with `pyttsx3`  
-📋 **Copy to Clipboard**  
-💾 **Save Favorites** to memory  
-🖼️ **Export as Image**  
-➕ **Add Custom Quotes**  
-🖤 **Full AMOLED Theme** with **pitch red glow outlines**  
-💗 **Made with love by Y7X**
+- 🔊 **Text-to-Speech** with `pyttsx3`  
+- 📋 **Copy to Clipboard**  
+- 💾 **Save Favorites** to memory  
+- 🖼️ **Export as Image**  
+- ➕ **Add Custom Quotes**  
+- 🖤 **Full AMOLED Theme** with **pitch red glow outlines**  
+- 💗 **Made with love by Y7X**
 
 ---
 
