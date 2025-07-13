@@ -1,16 +1,18 @@
-<h1 align="center">💬 QuotifyX</h1>
-<p align="center">
-  ⚡ A glowing AMOLED quote generator with speech, copy, save & export —<br>
-  Designed with 💗 by <a href="https://github.com/Y7X-bit">Y7X</a>
-</p>
-<p align="center">
-  <img src="assets/1.png" width="100%" alt="QuotifyX Preview" />
-</p>
+<div align="center">
 
+# 💬 QuotifyX
+**🧊 Script so cool it slipped into main**
+
+⚡ A glowing AMOLED quote generator with speech, copy, save & export
+Branded with 💗 by [Y7X-bit](https://github.com/Y7X-bit)
+
+<img src="assets/1.png" width="100%" alt="QuotifyX Preview"/>
+
+</div>
 
 ---
 
-## ✨ Features
+## 🌟 Features at a Glance
 
 🎯 **Get Quotes** from multiple categories (Motivation, Funny, Productivity, API)  
 🔊 **Text-to-Speech** with `pyttsx3`  
@@ -23,25 +25,12 @@
 
 ---
 
-## 🧠 Powered By
+## 🖥️ Installation
 
-🔎 **QuotifyX** is proudly built by [Y7X-bit](https://github.com/Y7X-bit)  
-With 🔥 redlines, 💡 quotes, and pure black pixels.
-
----
-
-## 🚀 Tech Stack
-
-- `Python`
-- `customtkinter`
-- `requests`
-- `pyttsx3`
-- `Pillow`
-- `pyperclip`
-
----
-
-## 📦 Requirements
+> Python 3.9 or later required
 
 ```bash
+git clone https://github.com/Y7X-bit/QuotifyXgit
+cd QuotifyX
 pip install -r requirements.txt
+python QuotifyX.py
